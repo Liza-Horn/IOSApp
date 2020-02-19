@@ -11,3 +11,9 @@ ga
 g
 rewg
 erg
+
+gf
+dg
+fg
+fd
+gfdgf
